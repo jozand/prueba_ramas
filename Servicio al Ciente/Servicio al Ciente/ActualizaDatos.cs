@@ -14,6 +14,7 @@ namespace Servicio_al_Ciente
         public ActualizaDatos()
         {
             InitializeComponent();
+			//Hola Joseph
         }
     }
 }
